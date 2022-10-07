@@ -1,0 +1,16 @@
+.side-column-parent {
+  min-height: 100vh;
+}
+
+.side-column {
+  height: 100%;
+}
+
+.sticky {
+  position: sticky;
+  top     : 0;
+}
+
+.gap {
+  gap: 1.4rem;
+}
